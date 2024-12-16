@@ -1,0 +1,6 @@
+valor1 = input("")  
+valor2 = input("")  
+valor3 = input("")  
+valor4 = input("") 
+valor5 = (int(valor1) * int(valor2) - int(valor3) * int(valor4))
+print("DIFERENCA = "+str(valor5))
